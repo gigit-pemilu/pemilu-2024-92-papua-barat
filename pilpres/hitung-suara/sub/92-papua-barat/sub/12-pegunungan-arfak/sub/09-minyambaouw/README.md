@@ -1,0 +1,78 @@
+# Menu Wilayah
+
+## Link
+
+[ADUER](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2009-aduer)
+ | 
+[ANDANG](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2036-andang)
+ | 
+[ANGGRA](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2020-anggra)
+ | 
+[APUL](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2024-apul)
+ | 
+[AWAIBEHEL](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2003-awaibehel)
+ | 
+[AYAU](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2035-ayau)
+ | 
+[BINGWOYUT](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2034-bingwoyut)
+ | 
+[COISI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2005-coisi)
+ | 
+[DEMAISI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2002-demaisi)
+ | 
+[DRIYE](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2015-driye)
+ | 
+[HANDUK](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2018-handuk)
+ | 
+[IMBENTI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2006-imbenti)
+ | 
+[IMBONGGUN](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2008-imbonggun)
+ | 
+[IMBREKTI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2027-imbrekti)
+ | 
+[INDABRI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2004-indabri)
+ | 
+[INGGRAMHIM](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2021-inggramhim)
+ | 
+[INJUAR](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2023-injuar)
+ | 
+[IPINGOSI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2028-ipingosi)
+ | 
+[MAINDA](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2026-mainda)
+ | 
+[MBINGMA](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2022-mbingma)
+ | 
+[MEMANGKER](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2025-memangker)
+ | 
+[MICADIWOR](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2011-micadiwor)
+ | 
+[MICONTI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2039-miconti)
+ | 
+[MINYAMBOUW](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2001-minyambouw)
+ | 
+[MISANGOISI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2031-misangoisi)
+ | 
+[MITIEDE](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2013-mitiede)
+ | 
+[NIMBIAU](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2033-nimbiau)
+ | 
+[NINSIMOI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2019-ninsimoi)
+ | 
+[PINYAUSI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2029-pinyausi)
+ | 
+[SIGIM](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2007-sigim)
+ | 
+[SIMERBEI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2014-simerbei)
+ | 
+[SINALTOUSI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2030-sinaltousi)
+ | 
+[SMANGGEI](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2032-smanggei)
+ | 
+[UGJEHEG](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2010-ugjeheg)
+ | 
+[UMPUG](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2017-umpug)
+ | 
+[UNGGA](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2012-ungga)
+ | 
+[WAMMINDA](https://github.com/gigit-pemilu/pemilu-2024-92-papua-barat/tree/main/pilpres/hitung-suara/sub/92-papua-barat/sub/12-pegunungan-arfak/sub/09-minyambaouw/sub/2016-wamminda)
+
