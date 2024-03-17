@@ -16,13 +16,13 @@ https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/920212100690
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-010441--ec2d0868-5ac8-4bf7-8872-15fb42f58600.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-010528--a2ca87fa-656e-4a23-8eb2-cdc4b93a8a40.jpg
+https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240317-121115--464f0c42-a8c7-48dd-81b4-292be1463335.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-010623--16ee0409-eafc-451d-a43b-1ca63a584abf.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-010707--db3787c3-5110-4720-b811-3254662019c8.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-010928--c03be066-e428-4427-8db2-056260fcfa85.jpg
+https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240317-121221--8186ee77-f940-4125-8c22-44e10d41dbfa.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-011003--e1dea5f5-d254-4a6f-aa1e-446520ad0ff2.jpg
 
@@ -38,7 +38,7 @@ https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/920212100690
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-011747--f0510210-90f9-4292-8a9a-0904371fc7e7.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-011831--6b1d7576-e985-43e4-bbfc-2e5a781d89a2.jpg
+https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240317-121312--65d1d8dc-4f54-40f1-a09f-8247d201b7b0.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/9202121006901-20240215-011859--a7f0b565-6fb1-4234-9132-90067dce8f4a.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/bed8/pemilu/pdpr/92/02/12/10/06/920212100690
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-17 12:33:47 |
 | Kode Dapil | 9201                |
 
 
