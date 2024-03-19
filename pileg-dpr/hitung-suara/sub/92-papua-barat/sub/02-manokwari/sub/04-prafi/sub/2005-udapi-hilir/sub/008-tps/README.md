@@ -26,7 +26,7 @@ https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/920204200500
 
 https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/9202042005008-20240214-221430--212d54d9-1e5e-4f9b-88a5-a37a0b1630b5.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/9202042005008-20240214-221551--67eeefae-7b42-4d5c-aa71-1070fad7bc11.jpg
+https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/9202042005008-20240318-181745--0a4ea1b2-9750-4bea-a766-6446807359b9.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/9202042005008-20240214-221638--2ac5ac7f-2f91-4ea7-a246-4b53f54d378f.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/7e58/pemilu/pdpr/92/02/04/20/05/920204200500
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 18:33:48 |
 | Kode Dapil | 9201                |
 
 

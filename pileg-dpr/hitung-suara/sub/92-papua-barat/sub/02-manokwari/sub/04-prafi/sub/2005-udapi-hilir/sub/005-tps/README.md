@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240215-160114--b8ddf2fc-8e4e-475f-88a8-5d03d9edd400.jpg
+https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240318-123902--75cca7c2-0df7-4ebc-aaff-d4d6fb8a86d0.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240215-160154--3a79c535-0c38-4cfe-948a-3fa88a7b3c87.jpg
 
@@ -34,7 +34,7 @@ https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/920204200500
 
 https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240216-012330--2a8f973f-8e2d-4395-aaef-b2646e282f55.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240216-012359--b94008b2-845b-42c0-ba81-3279be85a04e.jpg
+https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240318-123922--425eb8f4-2dfc-4e18-aafd-efdbe3b8e9bb.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/9202042005005-20240216-012420--0819ca24-27ad-42c6-90ef-9596575081e2.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/bcba/pemilu/pdpr/92/02/04/20/05/920204200500
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 13:03:46 |
 | Kode Dapil | 9201                |
 
 

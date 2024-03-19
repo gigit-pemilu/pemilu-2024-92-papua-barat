@@ -9,7 +9,7 @@ https://sirekap-obj-formc.kpu.go.id/ae8f/pemilu/pdpr/92/02/13/10/01/920213100100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 06:21:02 |
+| Time Stamp | 2024-03-18 11:33:48 |
 | Kode Dapil | 9201                |
 
 
